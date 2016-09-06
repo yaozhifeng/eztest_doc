@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'eztest'
+project = u'易考'
 copyright = u'2016, 易考'
 author = u'ATA'
 
@@ -174,7 +174,7 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #
-html_sidebars = {'**': ['globaltoc.html', 'relations.html', 'searchbox.html'],}
+# html_sidebars = {'**': ['globaltoc.html', 'relations.html', 'searchbox.html'],}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
@@ -301,7 +301,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'eztest', u'eztest Documentation',
+    (master_doc, 'eztest', u'易考使用手册',
      [author], 1)
 ]
 
@@ -316,7 +316,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'eztest', u'eztest Documentation',
+    (master_doc, 'eztest', u'易考使用手册',
      author, 'eztest', 'One line description of project.',
      'Miscellaneous'),
 ]
