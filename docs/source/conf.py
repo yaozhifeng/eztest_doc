@@ -49,8 +49,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'eztest'
-copyright = u'2016, Neil Yao'
-author = u'Neil Yao'
+copyright = u'2016, 易考'
+author = u'ATA'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -119,7 +119,7 @@ todo_include_todos = False
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -174,7 +174,7 @@ html_static_path = ['_static']
 
 # Custom sidebar templates, maps document names to template names.
 #
-# html_sidebars = {}
+html_sidebars = {'**': ['globaltoc.html', 'relations.html', 'searchbox.html'],}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
@@ -219,7 +219,7 @@ html_static_path = ['_static']
 #   'da', 'de', 'en', 'es', 'fi', 'fr', 'hu', 'it', 'ja'
 #   'nl', 'no', 'pt', 'ro', 'ru', 'sv', 'tr', 'zh'
 #
-# html_search_language = 'en'
+html_search_language = 'zh'
 
 # A dictionary with options for the search language support, empty by default.
 # 'ja' uses this config value.
@@ -233,7 +233,7 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'eztestdoc'
+htmlhelp_basename = '易考使用手册'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -259,8 +259,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'eztest.tex', u'eztest Documentation',
-     u'Neil Yao', 'manual'),
+    (master_doc, 'eztest.tex', u'易考使用手册',
+     u'易考', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of

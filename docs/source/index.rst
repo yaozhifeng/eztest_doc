@@ -10,6 +10,7 @@
 
 .. toctree::
    :maxdepth: 2
+   :caption: 索引
 
    form
    exam
