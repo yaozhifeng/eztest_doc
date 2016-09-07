@@ -12,6 +12,8 @@
     :maxdepth: 2
     :hidden:
 
-    self
+    basic
     form
     exam
+    pool
+    template

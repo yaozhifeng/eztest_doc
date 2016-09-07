@@ -233,7 +233,7 @@ html_search_language = 'zh'
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = '易考使用手册'
+htmlhelp_basename = 'eztest'
 
 # -- Options for LaTeX output ---------------------------------------------
 
