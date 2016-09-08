@@ -49,5 +49,5 @@ IOS移动终端：
 
 1. 点击导航栏“考试”，进入我的考试界面，点击右侧“新建考试”；
 
-.. image:: images/image001.png
+.. image:: _static/image001.png
 
