@@ -20,7 +20,7 @@
 
 .. toctree::
     :maxdepth: 2
-    readme
+    :hidden:
 
     basic
     form
