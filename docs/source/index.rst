@@ -27,3 +27,4 @@
     exam
     pool
     template
+    releasenote
