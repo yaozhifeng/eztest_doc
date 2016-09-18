@@ -28,3 +28,5 @@
     pool
     template
     releasenote
+    qq
+    
