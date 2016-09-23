@@ -8,9 +8,9 @@ QQ咨询
 .. image:: _static/group.png
 	:target: `QQ群`_
 
-
 易考QQ咨询
--------------
+--------------
+
 .. _QQ咨询: http://wpa.qq.com/msgrd?v=3&uin=1121015043&site=qq&menu=yes
 
 .. image:: _static/qq.png
