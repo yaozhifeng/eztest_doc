@@ -75,7 +75,7 @@
 
 4. **试卷添加多单元：** 若需要一份试卷添加多个单元可在编辑试卷界面新建单元或导入单元（导入单元可选择已有试卷的单元）
 
-.. image:: _static/add2.jpg
+.. image:: _static/add2.png
 
 .. image:: _static/add5.png
 
