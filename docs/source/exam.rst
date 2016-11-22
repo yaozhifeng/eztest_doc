@@ -127,7 +127,7 @@ AB卷或多份试卷
 
 若不需要收集任何信息，可选择一栏下拉多个，即可生成多个考生
 
-.. image:: _static/kaosheng4.jpg
+.. image:: _static/kaosheng6.jpg
 
 .. image:: _static/kaosheng5.jpg
 
