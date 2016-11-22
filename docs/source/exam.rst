@@ -123,11 +123,13 @@ AB卷或多份试卷
 
 .. image:: _static/kaosheng3.jpg
 
-excel表中可填写需要收集的考生信息，可设置准考证号；
+下载的excel模板中可填写需要收集的考生信息，若需要准考证号，可添加一行准考证号并填写考生准考证号；
 
 若不需要收集任何信息，可选择一栏下拉多个，即可生成多个考生
 
 .. image:: _static/kaosheng4.jpg
+
+.. image:: _static/kaosheng5.jpg
 
 准考证
 ------------
