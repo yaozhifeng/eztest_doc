@@ -27,7 +27,7 @@
     exam
     pool
     template
-    releasenote
     candidate
+    releasenote
     qq
     
