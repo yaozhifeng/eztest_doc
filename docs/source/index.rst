@@ -28,5 +28,6 @@
     pool
     template
     releasenote
+    candidate
     qq
     
