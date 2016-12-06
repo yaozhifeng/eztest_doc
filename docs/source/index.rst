@@ -27,6 +27,7 @@
     exam
     pool
     template
+    score
     candidate
     releasenote
     qq
