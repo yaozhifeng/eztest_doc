@@ -24,6 +24,7 @@
 
     basic
     form
+    items
     exam
     pool
     template
