@@ -6,39 +6,39 @@
 
 1.判断
 
-.. image:: _static/atixing1.jpg
+.. image:: _static/tixing1.jpg
 
 2.单选
 
-.. image:: _static/atixing2.jpg
+.. image:: _static/tixing2.jpg
 
 3.多选
 
-.. image:: _static/atixing3.jpg
+.. image:: _static/tixing3.jpg
 
 4.复合（即资料分析题）
 
-.. image:: _static/atixing4.jpg
+.. image:: _static/tixing4.jpg
 
 5.简答
 
-.. image:: _static/atixing5.jpg
+.. image:: _static/tixing5.jpg
 
 6.填空
 
-.. image:: _static/atixing6.jpg
+.. image:: _static/tixing6.jpg
 
 7.录音题
 
-.. image:: _static/atixing7.jpg
+.. image:: _static/tixing7.jpg
 
 8.拖拽题
 
-.. image:: _static/atixing8.jpg
+.. image:: _static/tixing8.jpg
 
 9.完形填空题
 
-.. image:: _static/atixing9.jpg
+.. image:: _static/tixing9.jpg
 
 - 所有类型的试题均支持上传音频和图片；
 
