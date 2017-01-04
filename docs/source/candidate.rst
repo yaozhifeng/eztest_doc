@@ -8,11 +8,9 @@
 
 考生打开考试链接后，在登陆界面输入准考证号登录即可。（**注：在登录时段内才可以登录**）
 
-.. image:: _static/kaoshi1.jpg
-
 可即报即考的考试，考生可点击立即注册进入考试：
 
-.. image:: _static/kaoshi2.jpg
+.. image:: _static/8-1.png
 
 - **第二步：填写信息**
 
@@ -41,11 +39,11 @@
 
 对于考后可以查看成绩的考试，考生可在考完后查看成绩
 
-.. image:: _static/kaoshi7.jpg
+.. image:: _static/4-25.png
 
 若考后没有即刻查看成绩，可再次打开考试链接，在登录框右下方点击查看成绩。
 
-.. image:: _static/kaoshi8.jpg
+.. image:: _static/4-26.png
 
 考生考试浏览器要求
 --------------------
