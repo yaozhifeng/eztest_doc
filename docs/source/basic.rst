@@ -91,7 +91,7 @@ IOS移动终端：
 
 * 第四步：设置考试配置（勾选需要的配置）；
 
-.. _考试配置相关问题: http://docs.eztest.org/zh_CN/latest/exam.html#id20
+.. _考试配置相关问题: http://docs.eztest.org/zh_CN/latest/exam.html#id13
 
 	`考试配置相关问题`_
 
