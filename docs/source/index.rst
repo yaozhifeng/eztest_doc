@@ -24,10 +24,10 @@
 
     basic
     form
-    items
     exam
     pool
     template
+    items
     score
     candidate
     releasenote
