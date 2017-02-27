@@ -25,11 +25,13 @@
     basic
     form
     exam
+    enroll
     pool
     template
     items
     score
     candidate
+    group
     releasenote
     qq
     
