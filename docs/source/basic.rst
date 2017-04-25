@@ -38,7 +38,7 @@ IOS移动终端：
 1. Google Chrome
 2. Firefox
 
-**注意：** iOS设备目前不支持视频监控功能和录音题，Internet Explorer的任何版本也不支持视频监考功能。很多国产浏览器使用和Google Chrome一样的内核，因此大部分情况下可以正常使用易考，但并不能支持视频监控功能和录音题。
+**注意：** iOS设备（iPhone和iPad）目前不支持视频监控功能和录音题，Internet Explorer的任何版本也不支持视频监考功能。很多国产浏览器使用和Google Chrome一样的内核，因此大部分情况下可以正常使用易考，但并不一定能支持视频监控功能和录音题。
   
 我们推荐使用Chrome或者FireFox浏览器，并更新到最新版本，以便获得最佳的跨平台支持。
 

@@ -31,7 +31,7 @@
     items
     score
     candidate
-    group
+    operator
     releasenote
     qq
     
