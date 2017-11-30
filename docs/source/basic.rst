@@ -42,9 +42,9 @@ IOS移动终端：
 1. Google Chrome
 2. Firefox
 
-iOS移动终端：不支持
+IOS移动终端：需iOS11以上
 
-**注意：** iOS设备（iPhone和iPad）目前不支持视频监控功能和录音题；
+**注意：** ios11以下（iPhone和iPad）目前不支持视频监控功能和录音题；
 
 Internet Explorer的任何版本也不支持视频监考功能。
 

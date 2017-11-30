@@ -8,6 +8,8 @@ QQ咨询
 .. image:: _static/group.png
 	:target: `QQ群`_
 
+.. image:: _static/qqq.png
+
 易考QQ咨询
 --------------
 
