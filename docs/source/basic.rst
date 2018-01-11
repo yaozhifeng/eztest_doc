@@ -42,7 +42,11 @@ iOS移动终端：
 1. Google Chrome
 2. Firefox
 
-iOS移动终端：需iOS11以上         
+iOS移动终端（需iOS11以上）：
+
+1. safiri
+2. chrome
+3. firefox
 
 **注意：** iOS11以下（iPhone和iPad）目前不支持视频监控功能和录音题；
 

@@ -29,6 +29,7 @@
     pool
     template
     items
+    config
     score
     candidate
     operator
