@@ -48,8 +48,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'易考'
-copyright = u'2016-2018, 易考, 沪ICP备14030601号'
+project = u'ATA'
+copyright = u'1999-2016. 沪ICP备14030601号'
 author = u'ATA'
 
 # The version info for the project you're documenting, acts as replacement for
