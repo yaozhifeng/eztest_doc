@@ -49,7 +49,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'ATA'
-copyright = u'1999-2016. 沪ICP备14030601号'
+copyright = u'2015-2018 ATA. All rights reserved. 沪ICP备14030601号.'
 author = u'ATA'
 
 # The version info for the project you're documenting, acts as replacement for
