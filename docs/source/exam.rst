@@ -21,7 +21,7 @@
 
 详细创建考试步骤 `查看`_
 
-.. _查看: http://docs.eztest.org/zh_CN/latest/basic.html#id4
+.. _查看: http://docs.eztest.org/basic.html#id5
 
 **应当如何设定和更改考试登录时段？**
 

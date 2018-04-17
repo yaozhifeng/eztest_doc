@@ -30,7 +30,7 @@
 
 复合题增加下设小题请点击“+新增子试题”并选择需要的题型。
 
-.. _各种题型展示: http://docs.eztest.org/zh_CN/latest/items.html#id2
+.. _各种题型展示: http://docs.eztest.org/items.html
 
 	`各种题型展示`_
 

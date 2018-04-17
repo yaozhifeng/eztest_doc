@@ -57,7 +57,7 @@
 
  `点击查看人工判分相关帮助`_
 
-.. _点击查看人工判分相关帮助: http://docs.eztest.org/zh_CN/latest/score.html
+.. _点击查看人工判分相关帮助: http://docs.eztest.org/score.html
 
 内容制作员
 ```````````````
@@ -88,7 +88,7 @@
 
  `点击视频监控相关帮助`_
 
-.. _点击视频监控相关帮助: http://docs.eztest.org/zh_CN/latest/exam.html#id15
+.. _点击视频监控相关帮助: http://docs.eztest.org/config.html#id6
 
 自定义权限
 ----------------
