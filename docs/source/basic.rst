@@ -119,7 +119,7 @@ Internet Explorer的任何版本也不支持视频监考功能。
 
 * 第三步：设置需要收集的考生个人信息；
 
-.. image:: _static/1-5.png
+.. image:: _static/r01.png
 
 * 第四步：设置考试配置（勾选需要的配置）；
 
