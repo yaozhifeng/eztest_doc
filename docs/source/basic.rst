@@ -204,4 +204,4 @@ Internet Explorer的任何版本也不支持视频监考功能。
 
 该部分使用柱状图展示了组卷模版的使用情况，包含抽卷次数和考试次数，点击模版列表查看全部组卷模版。
 
-.. image:: _static/K5.png
+.. image:: _static/kzt-01.png
